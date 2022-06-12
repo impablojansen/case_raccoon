@@ -1,0 +1,101 @@
+ano;dia;mes;nome;status;tipo
+2020;2;1;Alice Gamba;Nao Concluido;VIP
+2020;3;1;Alice Gamba;Concluido;Pista Premium
+2020;2;1;Amy Mejia;Problema no Pagamento;Pista Premium
+2020;3;1;Andrea Galyen;Nao Concluido;VIP
+2020;1;1;Andrea Galyen;Nao Concluido;Pista
+2020;3;1;Barbara Mcneil;Concluido;Pista Premium
+2020;1;1;Benjamin Mcdonald;Nao Concluido;VIP
+2020;1;1;Blanche Knox;Nao Concluido;Pista Premium
+2020;1;1;Brenda Key;Concluido;Pista Premium
+2020;3;1;Brenda Kozak;Problema no Pagamento;Pista Premium
+2020;1;1;Charles Hershenson;Nao Concluido;VIP
+2020;1;1;Clara Faupel;Concluido;Pista Premium
+2020;2;1;Courtney Edwards;Concluido;Pista
+2020;1;1;Courtney Edwards;Concluido;Pista Premium
+2020;3;1;Curtis Hernandez;Problema no Pagamento;Pista Premium
+2020;1;1;Daniel Puckett;Nao Concluido;Pista
+2020;1;1;Deborah Silsby;Concluido;VIP
+2020;1;1;Debra Howard;Nao Concluido;Pista
+2020;1;1;Debra Howard;Problema no Pagamento;Pista
+2020;1;1;Donna Chandler;Nao Concluido;VIP
+2020;1;1;Donna Wal;Concluido;Pista
+2020;3;1;Donna Wal;Problema no Pagamento;Pista Premium
+2020;1;1;Edna Martinez;Problema no Pagamento;VIP
+2020;2;1;Edna Martinez;Nao Concluido;VIP
+2020;3;1;Eduardo Espenshade;Concluido;Pista Premium
+2020;3;1;Edward Smith;Problema no Pagamento;Pista
+2020;3;1;Elizabeth Daly;Problema no Pagamento;VIP
+2020;1;1;Elizabeth Daly;Problema no Pagamento;Pista
+2020;2;1;Emil Nord;Nao Concluido;Pista
+2020;2;1;Felicia Hallman;Concluido;VIP
+2020;2;1;Frances Lambert;Concluido;VIP
+2020;2;1;Frank Davilla;Problema no Pagamento;Pista Premium
+2020;2;1;Frank Houck;Problema no Pagamento;Pista
+2020;1;1;Frank Houck;Problema no Pagamento;Pista Premium
+2020;1;1;Frederick Bank;Problema no Pagamento;VIP
+2020;2;1;Frederick Bank;Concluido;Pista Premium
+2020;1;1;Gerald Allen;Nao Concluido;VIP
+2020;1;1;Gretchen Hinojosa;Concluido;Pista
+2020;1;1;Gretchen Hinojosa;Nao Concluido;Pista
+2020;2;1;Guadalupe Bell;Concluido;VIP
+2020;2;1;James Coffey;Problema no Pagamento;VIP
+2020;2;1;James Reaves;Problema no Pagamento;Pista
+2020;1;1;James Reaves;Problema no Pagamento;Pista Premium
+2020;2;1;James Reaves;Problema no Pagamento;Pista Premium
+2020;1;1;Jarrod Adler;Nao Concluido;Pista
+2020;1;1;Jeffrey Pace;Nao Concluido;VIP
+2020;2;1;John Rich;Problema no Pagamento;VIP
+2020;2;1;John Rich;Problema no Pagamento;VIP
+2020;3;1;John Rich;Problema no Pagamento;VIP
+2020;2;1;John Rich;Problema no Pagamento;Pista
+2020;2;1;John Rich;Concluido;Pista
+2020;1;1;John Rich;Concluido;Pista Premium
+2020;3;1;John Rich;Concluido;Pista Premium
+2020;3;1;John Rich;Nao Concluido;Pista Premium
+2020;3;1;Joseph Wray;Problema no Pagamento;Pista Premium
+2020;1;1;Joshua Sanderson;Nao Concluido;Pista
+2020;2;1;Kathleen Duncan;Concluido;Pista Premium
+2020;2;1;Kelly Williamson;Nao Concluido;VIP
+2020;3;1;Kelly Williamson;Problema no Pagamento;Pista
+2020;3;1;Larry Teague;Problema no Pagamento;VIP
+2020;2;1;Linda Batiz;Concluido;Pista Premium
+2020;3;1;Lucia Hayes;Concluido;Pista
+2020;1;1;Lyle Branch;Concluido;VIP
+2020;1;1;Lyle Branch;Problema no Pagamento;Pista
+2020;2;1;Lyle Branch;Concluido;Pista
+2020;3;1;Marcela Nelson;Concluido;Pista
+2020;2;1;Margaret Robinson;Nao Concluido;Pista Premium
+2020;2;1;Maria Marshall;Problema no Pagamento;VIP
+2020;1;1;Maria Villa;Problema no Pagamento;Pista Premium
+2020;2;1;Matt Smudrick;Nao Concluido;VIP
+2020;1;1;Michael Gaines;Nao Concluido;Pista Premium
+2020;2;1;Michael Gaines;Concluido;Pista Premium
+2020;3;1;Miguel Ramey;Concluido;Pista
+2020;1;1;Mitchell Kostyla;Nao Concluido;VIP
+2020;3;1;Mitchell Kostyla;Concluido;Pista
+2020;2;1;Mitchell Kostyla;Nao Concluido;Pista Premium
+2020;3;1;Nancy Degroot;Nao Concluido;Pista
+2020;1;1;Nancy Smith;Nao Concluido;VIP
+2020;1;1;Nicholas Johansson;Concluido;VIP
+2020;1;1;Pamela Nixon;Concluido;Pista Premium
+2020;1;1;Ricardo Clasby;Concluido;Pista Premium
+2020;3;1;Richard Culpepper;Concluido;Pista
+2020;1;1;Richard Culpepper;Problema no Pagamento;Pista Premium
+2020;2;1;Richard Culpepper;Concluido;Pista Premium
+2020;3;1;Richard Jimenez;Nao Concluido;Pista Premium
+2020;2;1;Rick Fleishman;Concluido;Pista Premium
+2020;3;1;Robert Copenhaver;Concluido;Pista Premium
+2020;1;1;Ruth Ridge;Concluido;VIP
+2020;2;1;Sabrina Graves;Nao Concluido;Pista Premium
+2020;3;1;Sandra Duncan;Concluido;Pista
+2020;2;1;Shayla Baird;Nao Concluido;VIP
+2020;1;1;Suzanne Herring;Problema no Pagamento;Pista
+2020;1;1;Tina Yee;Nao Concluido;VIP
+2020;2;1;Tina Yee;Nao Concluido;VIP
+2020;3;1;Tina Yee;Problema no Pagamento;VIP
+2020;1;1;Tina Yee;Concluido;Pista Premium
+2020;1;1;Travis Whatley;Problema no Pagamento;Pista
+2020;1;1;William Barnes;Nao Concluido;VIP
+2020;3;1;Yong Baltazar;Nao Concluido;VIP
+2020;3;1;Young Besaw;Concluido;Pista

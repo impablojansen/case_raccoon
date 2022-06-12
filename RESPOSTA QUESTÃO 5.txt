@@ -1,0 +1,173 @@
+[
+    {
+        "nome":"Andrea Galyen",
+        "gastos":5133.81,
+        "show":[
+            "Terrestrial Chair",
+            "Symbolic Toy"
+        ]
+    },
+    {
+        "nome":"Benjamin Mcdonald",
+        "gastos":2309.81,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"Blanche Knox",
+        "gastos":924.31,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"Charles Hershenson",
+        "gastos":163.44,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"Daniel Puckett",
+        "gastos":1489.02,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"Debra Howard",
+        "gastos":5879.15,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"Edna Martinez",
+        "gastos":9415.36,
+        "show":[
+            "Terrestrial Chair",
+            "Nascent Letter"
+        ]
+    },
+    {
+        "nome":"Emil Nord",
+        "gastos":4798.81,
+        "show":[
+            "Nascent Letter"
+        ]
+    },
+    {
+        "nome":"Frank Davilla",
+        "gastos":1724.35,
+        "show":[
+            "Nascent Letter"
+        ]
+    },
+    {
+        "nome":"Gerald Allen",
+        "gastos":3447.17,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"James Reaves",
+        "gastos":5035.27,
+        "show":[
+            "Nascent Letter"
+        ]
+    },
+    {
+        "nome":"Jarrod Adler",
+        "gastos":1070.84,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"Jeffrey Pace",
+        "gastos":5810.78,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"Joseph Wray",
+        "gastos":3142.35,
+        "show":[
+            "Symbolic Toy"
+        ]
+    },
+    {
+        "nome":"Joshua Sanderson",
+        "gastos":1775.6,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"Kelly Williamson",
+        "gastos":9380.15,
+        "show":[
+            "Nascent Letter",
+            "Symbolic Toy"
+        ]
+    },
+    {
+        "nome":"Larry Teague",
+        "gastos":12137.35,
+        "show":[
+            "Symbolic Toy"
+        ]
+    },
+    {
+        "nome":"Margaret Robinson",
+        "gastos":3148.62,
+        "show":[
+            "Nascent Letter"
+        ]
+    },
+    {
+        "nome":"Maria Marshall",
+        "gastos":1963.9,
+        "show":[
+            "Nascent Letter"
+        ]
+    },
+    {
+        "nome":"Richard Jimenez",
+        "gastos":1170.46,
+        "show":[
+            "Symbolic Toy"
+        ]
+    },
+    {
+        "nome":"Sabrina Graves",
+        "gastos":1893.27,
+        "show":[
+            "Nascent Letter"
+        ]
+    },
+    {
+        "nome":"Shayla Baird",
+        "gastos":1613.1,
+        "show":[
+            "Nascent Letter"
+        ]
+    },
+    {
+        "nome":"Suzanne Herring",
+        "gastos":3387.75,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    },
+    {
+        "nome":"William Barnes",
+        "gastos":3218.63,
+        "show":[
+            "Terrestrial Chair"
+        ]
+    }
+]
